@@ -1,2 +1,7 @@
 # Inteligencia-Artificial
-Que tal loco bienvenidos a mi canal suscribanse a fibrasgaming directo todos los dias
+Proyecto de vision artificial para la materia de Inteligencia Artificial
+## Colaboradores
+* Kevin Rodrigo Peralta Ayllon
+* Jhonny Gary Mamani Cortez
+## Tecnologias
+* Python
